@@ -1,5 +1,7 @@
 public class ContaTerminal {
-    public static void main(String[] args) throws Exception {
-        System.out.println ("Funciona logo");
-    }
+    
 }
+/* Estruturas condicionais: if-else, switch-case 
+Estruturas de repetição: for, while, do-while
+Estruturas de exceções: try-catch-finally, throw
+ */
